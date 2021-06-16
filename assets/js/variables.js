@@ -46,3 +46,11 @@ varTest();
 const increment = (num) => num + 1;
 
 console.log(increment(41)); // => 42
+
+
+
+const nombre= "Cesar";
+const apellidos= "Juárez Fonseca";
+
+console.log("Hola, mi nombre es " + nombre + " y mis apellido son " + apellidos);
+console.log(`Hola mi nombre es ${nombre} y mis apellidos son ${apellidos}`);
